@@ -1,0 +1,66 @@
+.content{
+    width:  100%;
+    display: block;
+    margin: 5px auto;
+    overflow: hidden;
+    height: 19%;
+}
+.block-head{
+    width: 30%;
+    padding: 60px 60px 0px 60px;
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: LightGrey;
+}
+.block {
+    text-align: right;
+    font-size: 30px;
+    display: inline-block;
+    font-align: right;
+    width:  98%;
+    font-weight: bold;
+    background-color: LightGrey;
+    height: 50px;
+    padding: 15px;
+}
+img {
+    margin: 0.1% auto;
+}
+.image {
+    float: left;
+    margin: 0px 25px;
+}
+.last {
+    display: inline-block;
+    width: 32%;
+}
+.last-right {
+    font-align: right;
+    display: inline-block;
+    text-align: right;
+    width: 67%;
+}
+.last-head {
+    width: 100%;
+    display: block;
+    padding: 5px 3px;
+    background: LightGrey;
+}
+.mini-logo {
+    float: left;
+    display: inline-block;
+    width: 25%;
+}
+.logo {
+    text-overflow: ellipsis;
+    text-align: center;
+    width:  40%;
+    display: block;
+    margin: 5px auto;
+    overflow: hidden;
+}
+.super-img {
+    display: inline-block;
+}
